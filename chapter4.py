@@ -37,7 +37,7 @@
 
 # nums = [numbers for numbers in range(1,21)]
 # print(nums)
-# lotonums = [fuck for fuck in range(0,1000001)]
+# lotonums = [f for f in range(0,1000001)]
 # #print(lotonums)
 # #for i in lotonums:
 # #    print(i)
